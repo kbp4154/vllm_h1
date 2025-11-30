@@ -185,3 +185,12 @@ If you use vLLM for your research, please cite our [paper](https://arxiv.org/abs
 ## Media Kit
 
 - If you wish to use vLLM's logo, please refer to [our media kit repo](https://github.com/vllm-project/media-kit)
+
+
+
+
+
+## 
+Day 0 (Nov 30 2025): vLLM running on T4, fixing profiler overhead #29564
+<img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/79e9ba0f-d80b-49c6-b99a-4dc257e33125" />
+
